@@ -1,0 +1,1 @@
+export {default as cloud} from './cloudy.svg'   
